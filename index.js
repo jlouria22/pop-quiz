@@ -63,6 +63,7 @@ if (selection3 === 1) {
   alert(`wrong`);
 }
 
+// final output
 if (score === 0) {
   alert(`user got 0 questions right. study more`);
 } else if (score === 1 || score === 2) {
